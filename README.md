@@ -1,6 +1,6 @@
 # 💫 About Me:
-Website designer and developer with several years of experience in designing and developing websites.
-
+Website designer and developer with several years of experience in designing and developing websites.<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Msn_Hdd-Web_Design_and_Development-green?style=plastic&logo=github">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/msnhdd) 
